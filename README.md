@@ -110,6 +110,8 @@ Implementação iterativa do algoritmo de Fibonacci em Assembly NASM com valida�
 **Bacharelado em Ciência da Computação**  
 *Último ano - Conclusão prevista para 2026*
 
+UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ - UNIOESTE
+
 **Principais disciplinas:**
 - Sistemas Operacionais
 - Inteligência Artificial
