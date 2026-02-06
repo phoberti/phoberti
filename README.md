@@ -108,7 +108,7 @@ Implementação iterativa do algoritmo de Fibonacci em Assembly NASM com valida�
 ## 🎓 Formação
 
 **Bacharelado em Ciência da Computação**  
-*Último ano - Conclusão prevista para 2025*
+*Último ano - Conclusão prevista para 2026*
 
 **Principais disciplinas:**
 - Sistemas Operacionais
