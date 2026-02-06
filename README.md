@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Ciência da Computação no último ano, com experiência em desenvolvimento de sistemas complexos, inteligência artificial e programação de baixo nível. Busco oportunidades como desenvolvedor júnior para aplicar conhecimentos técnicos e contribuir com soluções inovadoras.
+Estudante de Ciência da Computação no último ano, com experiência em desenvolvimento de sistemas complexos, inteligência artificial e programação de baixo nível.
 
 ---
 
