@@ -1,6 +1,6 @@
 # Pedro Henrique de Oliveira Berti
 
-**Ciência da Computação** | Suporte Técnico | Desenvolvedor Full-Stack | HTML, CSS, JavaScript | Git, GitHub
+**Ciência da Computação** | Suporte Técnico | Desenvolvedor Full-Stack | HTML, CSS, JavaScript, TypeScript | React.js, Node.js, Bootstrap | Git, GitHub
 
 ---
 
@@ -40,7 +40,7 @@ UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ - UNIOESTE
 
 - **GitHub:** [github.com/phoberti](https://github.com/phoberti)
 - **LinkedIn:** [linkedin.com/in/pedrohberti](https://linkedin.com/in/pedrohberti)
-- **Email:** [pedropes2010pedropes@gmail.com](mailto:pedropes2010pedropes@gmail.com)
+- **Email:** [phbertidev@gmail.com](mailto:phbertidev@gmail.com)
 
 ---
 
